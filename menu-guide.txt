@@ -1,0 +1,7 @@
+Função start_game: Quando o botão "Start" é pressionado, o jogo é iniciado (abrindo o arquivo game.py).
+Função toggle_mute: Essa função alterna o estado do volume da música. Quando o botão "Mute Volume" é pressionado, ela verifica se a música está mutada ou não, ajustando o volume conforme necessário.
+Função exit_game: Esta função simplesmente fecha o menu ao pressionar o botão "Exit".
+Botões e Ações: No menu, há três botões com as seguintes ações:
+"Start" inicia o jogo.
+"Mute Volume" alterna entre mutar e desmutar a música de fundo.
+"Exit" fecha o jogo.

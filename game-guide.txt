@@ -1,0 +1,6 @@
+Movimentação do Jogador: O jogador se move com as teclas de seta e pode pular. Há um sistema de gravidade que afeta o personagem quando ele não está em uma plataforma.
+Animações: O personagem tem animações para ficar parado (idle) e para caminhar, além de animar o movimento nas direções esquerda e direita.
+Sistema de Vidas e Respawn: Quando o jogador colide com um inimigo, ele perde uma vida e respawn se tiver vidas restantes. Se perder todas as vidas, o jogo termina.
+Inimigos: Os inimigos patrulham as plataformas e se movem de um lado para o outro. Se o jogador os colidir, ele perde uma vida.
+Itens Colecionáveis: Há 5 itens espalhados pelas plataformas. O jogador precisa coletá-los para vencer o jogo.
+Projéteis: O jogador pode disparar projéteis com a tecla de espaço. Esses projéteis eliminam os inimigos ao colidirem com eles.
